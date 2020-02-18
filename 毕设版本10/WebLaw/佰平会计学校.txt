@@ -1,0 +1,691 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>佰平会计学院-全国领先的会计培训学校</title>
+
+     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
+    <link href="/css/public.css" rel="stylesheet" type="text/css" />
+    <link href="/css/ie8.css" rel="stylesheet" type="text/css" />
+    <link href="/css/main.css" rel="stylesheet" type="text/css" />
+    <script src="/js/jquery.min.js" type="text/javascript"></script>
+    <!--[if lt IE 9]>
+  <script src="/js/html5.js"></script>
+  <link href="/css/ie8.css" rel="stylesheet">
+<![endif]-->
+    <link href="../css/global.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+    .zxbtn{ border:0px solid red; height:31px; background:url(images/btn_lv.jpg) no-repeat;}
+    .zxbtn:hover{ background:url(images/zxbtn_on.png) no-repeat;}
+    .yybtn{ height: 32px;}
+    .yybtn:hover{ background:url(images/yuyuest.png) no-repeat;}
+    
+    .tiyanbtn{ font-size:26px; color:White; font-family:微软雅黑; text-indent:247px; line-height:47px; letter-spacing:1px;}
+    .tiyanbtn:hover{ background:url(images/tiyanbtn.png) no-repeat; color:Black;letter-spacing:1px;}
+    
+    .jiuye_btn{ display:block; margin:20px auto; width:179px; height:52px; overflow:hidden; background:url(images/jiuyezx.png) no-repeat;}
+     .jiuye_btn:hover{background:url(images/jiuyezx_on.png) no-repeat; }
+     
+     .btn_shiting{ background:url(images/btn_black.jpg) no-repeat;}
+     .btn_shiting:hover{ background:url(images/yellow_btn.jpg) no-repeat;}
+    </style>
+</head>
+<body>
+    
+<script src="/js/jquery.min.js" type="text/javascript"></script>
+<header>
+<div class="h_top">
+<div style="width:1002px; margin:0px auto; position:relative;">
+<div class="h_top_txt">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+        <td align="left">
+            <strong>佰平会计：全国领先的会计培训服务机构</strong> 
+        </td>
+        <td align="right">
+        <div class="loginlinks">
+        <a class="btn01" data-toggle="modal" href="#login-modal">登录</a><a class="btn02" data-toggle="modal" href="#signup-modal" style=" width:30px;">注册</a>
+        </div>
+        </td>
+        <td width="10"></td>
+        <td width="140" align="right"></td>
+    </tr>
+</table>
+
+
+
+</div>
+
+<!--分享 begin-->
+<div class="bdshare_zdy">
+<div class="bdsharebuttonbox">
+
+                    <a href="#" class="bds_more" data-cmd="more"> 分享到：</a>
+                    
+                    <a href="#" class="bds_qzone" data-cmd="qzone"></a>
+                    <a href="#" class="bds_tsina" data-cmd="tsina"></a>
+                    <a href="#" class="bds_tqq" data-cmd="tqq"></a>
+      
+                    </div>
+                    </div>
+
+                    </div>
+                     
+<script>
+    window._bd_share_config = {
+    //此处添加分享具体设置
+}
+
+//以下为js加载部分
+
+window._bd_share_config = {
+    "common": {
+        "bdSnsKey": {},
+        "bdText": "",
+        "bdMini": "2",
+        "bdMiniList": false,
+        "bdPic": "",
+        "bdStyle": "1",
+        "bdSize": "16"
+    },
+    "share": {
+        "bdSize": 16
+    },
+    "image": {
+        "viewList": ["qzone", "tsina", "tqq"],
+        "viewText": "分享到：",
+        "viewSize": "16"
+    },
+    "selectShare": {
+        "bdContainerClass": null,
+        "bdSelectMiniList": ["qzone", "tsina", "tqq"]
+    }
+};
+
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+                    </script>
+                   
+<!--分享  end-->
+
+</div>
+<div class="h_box">
+<a href="/">
+    
+    <img src="/Upload/admin20141013085742.PNG" class="logo" alt="" />
+    
+</a>
+<span id="allshool"><em>广州市</em>
+<div class="allshool">
+<strong>东莞市：</strong><ul><li><a href="http://xlw.baiping.org">东城校区</a></li><li><a href="http://xlw.baiping.org">南城校区</a></li><li><a href="http://xlw.baiping.org">虎门校区</a></li></ul><strong>佛山市：</strong><ul><li><a href="http://fs1.baipingkuaiji.com">祖庙校区</a></li></ul><strong>广州市：</strong><ul><li><a href="http://www.baipingkuaiji.com">东川总校</a></li><li><a href="http://www.baipingkuaiji.com">江南西校区</a></li><li><a href="http://www.baipingkuaiji.com">客村校区</a></li><li><a href="http://www.baipingkuaiji.com">中华广场校区</a></li><li><a href="http://www.baipingkuaiji.com">三元里校区</a></li><li><a href="http://www.baipingkuaiji.com">公园前校区</a></li><li><a href="http://www.baipingkuaiji.com">燕塘校区</a></li><li><a href="http://www.baipingkuaiji.com">岗顶校区</a></li><li><a href="http://www.baipingkuaiji.com">东圃校区</a></li><li><a href="http://www.baipingkuaiji.com">陈家祠校区</a></li><li><a href="http://www.baipingkuaiji.com">芳村校区</a></li><li><a href="http://www.baipingkuaiji.com">新市校区</a></li><li><a href="http://www.baipingkuaiji.com">同和校区</a></li><li><a href="http://www.baipingkuaiji.com">永泰校区</a></li><li><a href="http://www.baipingkuaiji.com">广园新村校区</a></li><li><a href="http://www.baipingkuaiji.com">金沙洲校区</a></li><li><a href="http://www.baipingkuaiji.com">南沙校区</a></li><li><a href="http://www.baipingkuaiji.com">大沙地校区</a></li><li><a href="http://www.baipingkuaiji.com">生活区校区</a></li><li><a href="http://www.baipingkuaiji.com">市桥校区</a></li><li><a href="http://www.baipingkuaiji.com">花都银丰校区</a></li><li><a href="http://www.baipingkuaiji.com">萝岗校区</a></li><li><a href="http://www.baipingkuaiji.com">从化街口校区</a></li><li><a href="http://www.baipingkuaiji.com">人和校区</a></li></ul><strong>惠州市：</strong><ul><li><a href="http://hz1.baipingkuaiji.com">花边岭校区</a></li><li><a href="http://hz1.baipingkuaiji.com">惠阳校区</a></li></ul><strong>茂名市：</strong><ul><li><a href="http://www.mmbaiping.com">茂名校区</a></li></ul><strong>绵阳市：</strong><ul><li><a href="http://my.baipingkuaiji.com">绵阳校区</a></li></ul><strong>南宁市：</strong><ul><li><a href="http://www.baipingkuaiji.com">南宁校区</a></li></ul><strong>清远市：</strong><ul><li><a href="http://qy.baipingkuaiji.com">清远校区</a></li></ul><strong>盐城市：</strong><ul><li><a href="http://yc.baipingkuaiji.com">盐城校区</a></li></ul><strong>肇庆市：</strong><ul><li><a href="http://zq.baiping.org">肇庆校区</a></li></ul>
+</div>
+</span>
+<a data-toggle="modal" href="#phonebox-modal"><i></i>免费电话</a>
+<a href="/kstip.aspx" title=""><i class="Examremind"></i>考试提醒</a>
+<a href="/mainfei.aspx#c" target="_blank"><i class="Freeaudition"></i>免费试听</a>
+<a href="/messages.aspx" title="" target="_blank"><i class="feedback"></i>留言反馈</a>
+<a href="/contact.aspx" title="城市联系方式" target="_blank"><i class="Contactus"></i>联系我们</a>
+
+
+<img src="/images/Iphone.png" alt="" class="phone" />
+</div>
+<nav class="firs_nav lingjichu">
+<div class="n_nav">
+<ul>
+<li class="sep"><a href="/index.aspx" title="" class="addmes">网站首页</a></li>
+<li class="sep"><a href="/school.aspx?id=8#c" title="">学校简介</a></li>
+<li class="sep"><a href="/courses.aspx#c" title="">精品课程</a>
+    <ul>
+        <li><a href="/EduWeb/index.html">学历提升</a></li>
+    </ul>
+</li>
+<li class="sep"><a href="/youshi.aspx" title="">佰平优势</a></li>
+<li class="sep"><a href="/planning.aspx#c" title="">开课计划</a></li>
+<li class="sep"><a href="/faculty.aspx#c" title="">师资力量</a></li>
+<li class="sep"><a href="/photo.aspx#c" title="">学校相册</a></li>
+<li class="sep"><a href="/Star.aspx#c"title="">明星学员</a></li>
+<li class="sep"><a href="/baoming.aspx#c" title="">网上报名</a></li>
+<li class="sep"><a href="/newslist.aspx#c" title="">新闻动态</a></li>
+<li class=""><a href="/Impression.aspx" title="">佰平印象</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+    //导航状态保持
+    $(".n_nav ul li a").each(function (i) {
+        var _url = window.location.href;
+        if (this.href == _url) {
+            $(this).addClass("addmes2").parent().siblings().find("a").removeClass("addmes");
+            $(this).addClass("addmes2").parent().prev().removeClass("sep");
+        }
+
+        if (_url.indexOf("zhuanti") >= 0 || _url.indexOf("/zt/")>=0 || _url.indexOf("/ck/")>=0 || _url.indexOf("/dd/")>=0) {
+            $(".n_nav ul li a").each(function (i) {
+                if (this.href.indexOf("courses.aspx") >= 0) {
+                    $(this).addClass("addmes2").parent().siblings().find("a").removeClass("addmes");
+                    $(this).addClass("addmes2").parent().prev().removeClass("sep");
+                }
+            });
+        }
+    });
+
+    //显示二级菜单
+    $(".n_nav ul>li").mouseover(function () {
+        $(this).find("ul").show();
+    }).mouseout(function () {
+        $(this).find("ul").hide();
+    })
+</script>
+</nav>
+
+</header>
+<script type="text/javascript">
+    $(function () {
+        $(".n_nav ul li a").hover(function () {
+            $(this).addClass("addmes");
+        }, function () {
+            $(this).removeClass("addmes");
+        });
+
+        $("#allshool").hover(function () {
+            $(".allshool").show();
+        }, function () {
+            $(".allshool").hide(400);
+        });
+        $(".allshool").hover(function () {
+            $(".allshool").show();
+        }, function () {
+            $(".allshool").hide(400);
+        });
+    });
+</script>
+
+
+
+    <div style="height: 600px; background: url(images/index_02.jpg) no-repeat center top;">
+    </div>
+    <div style="height: 182px; background: url(images/index_03.jpg) no-repeat center top;">
+    </div>
+    <!--申请试听-->
+    <div style="height: 504px; background: url(images/index_04.jpg) no-repeat center top;">
+        <div class="w2">
+            <a href="/mainfei.aspx#c" target="_blank" class="btn_shiting" style="width: 112px; height: 28px;  display: inline-block; margin-top: 196px; margin-left: 33px; margin-right: 80px;">
+            </a>
+            <a href="/mainfei.aspx#c" target="_blank" class="btn_shiting" style="width: 112px; height: 28px;  display: inline-block; margin-top: 196px; margin-left: 37px; margin-right: 80px;"></a>
+           <a href="/mainfei.aspx#c" target="_blank" class="btn_shiting" style="width: 112px; height: 28px;  display: inline-block; margin-top: 196px; margin-left: 33px; margin-right: 80px;"></a>
+           <a href="/mainfei.aspx#c" target="_blank" class="btn_shiting" style="width: 112px; height: 28px;  display: inline-block; margin-top: 196px; margin-left: 34px; margin-right: 80px;"></a>
+            <a href="/mainfei.aspx#c" target="_blank" class="btn_shiting" style="width: 112px; height: 28px;  display: inline-block; margin-top: 196px; margin-left: 34px;"></a>
+        </div>
+    </div>
+    <!--一对一-->
+    <div style="height: 555px; background: url(images/index_05.jpg) no-repeat center top;">
+        <div class="w2">
+            <div>
+                <a href="http://www15.53kf.com/webCompany.php?arg=10108742&style=1" class="zxbtn" style="width: 180px; display: inline-block; margin-top: 206px; margin-left: 88px; margin-right: 100px;"></a>
+                <a href="http://www15.53kf.com/webCompany.php?arg=10108742&style=1" class="zxbtn" style="width: 180px;  display: inline-block; margin-left: 90px; margin-right: 100px;"></a>
+                <a href="http://www15.53kf.com/webCompany.php?arg=10108742&style=1" class="zxbtn" style="width: 180px;   display: inline-block; margin-left: 89px; margin-right: 80px;"></a>
+            </div>
+            <div>
+                <a href="http://www15.53kf.com/webCompany.php?arg=10108742&style=1" class="zxbtn" style="width: 180px;  display: inline-block; margin-top: 182px; margin-left: 87px; margin-right: 100px;"></a>
+                <a href="http://www15.53kf.com/webCompany.php?arg=10108742&style=1" class="zxbtn"  style="width: 180px; display: inline-block; margin-top: 182px; margin-left: 90px; margin-right: 100px;"></a>
+                <a href="http://www15.53kf.com/webCompany.php?arg=10108742&style=1" class="zxbtn" style="width: 180px; display: inline-block; margin-top: 182px; margin-left: 89px; margin-right: 80px;"></a>
+            </div>
+        </div>
+    </div>
+    <div style="height: 593px; background: url(images/index_06.jpg) no-repeat center top;">
+    </div>
+    <div style="height: 214px; background: url(images/kjzb_11_01.jpg) no-repeat center top;">
+    </div>
+    <div style="height: 213px; background: url(images/kjzb_11_02.jpg) no-repeat center top;">
+        <div class="w2" style="overflow: hidden;">
+            <a href="/mainfei.aspx#c" target="_blank" style="width: 180px; display: block; margin-top: 9px; margin-left: 809px;" class="yybtn"></a>
+            <a href="/mainfei.aspx#c" class="yybtn" target="_blank" style="width: 180px;  display: block; margin-top: 48px; margin-left: 702px;"></a>
+        </div>
+    </div>
+    <div style="height: 214px; background: url(images/kjzb_11_03.jpg) no-repeat center top;">
+    </div>
+    <div style="height: 213px; background: url(images/kjzb_11_04.jpg) no-repeat center top;">
+        <div class="w2" style="overflow: hidden;">
+            <a href="/mainfei.aspx#c" target="_blank" class="yybtn" style="width: 180px;  display: block; margin-top: 159px; margin-left: 802px;"></a>
+        </div>
+    </div>
+    <!--零基础岗前系列-->
+    <div style="height: 141px; background: url(images/index_08.jpg) no-repeat center top;">
+    </div>
+    <div style="height: 224px; background: url(images/index_09_01.jpg) no-repeat center top;">
+        <div class="w2" style="overflow: hidden;">
+            <a href="/mainfei.aspx#c" class="yybtn" target="_blank" style="width: 180px;  display: block; margin-top: 23px; margin-left: 720px;"></a>
+        </div>
+    </div>
+    <div style="height: 223px; background: url(images/index_09_02.jpg) no-repeat center top;">
+    </div>
+    <!--专业会计班-->
+    <div style="height: 224px; background: url(images/index_09_03.jpg) no-repeat center top;">
+        <div class="w2" style="overflow: hidden;">
+            <a href="/mainfei.aspx#c" class="yybtn" target="_blank" style="width: 180px;  display: block; margin-top: 80px; margin-left: 802px;"></a>
+            <div class="w2" style="overflow: hidden;">
+                <a href="/mainfei.aspx#c" class="yybtn" target="_blank" style="width: 180px;  display: block; margin-top: 48px; margin-left: 720px;"></a>
+            </div>
+        </div>
+    </div>
+    <div style="height: 223px; background: url(images/index_09_04.jpg) no-repeat center top;">
+    </div>
+    <!--佰平精、独配-->
+    <div style="height: 707px; background: url(images/index_10.jpg) no-repeat center top;">
+        <div class="w2" style="overflow: hidden;">
+            <div>
+                <a href="/ksdatabase.aspx" class="tiyanbtn" target="_blank" style="width: 415px; height: 47px;  display: block; margin-top: 327px; margin-left: 89px; display: inline-block;">在线模考</a>
+                <a href="/ksdatabase.aspx" class="tiyanbtn" target="_blank" style="width: 415px; height: 47px; display: block; margin-top: 325px; margin-left: 88px; display: inline-block;">免费下载</a>
+            </div>
+            <div>
+                <a href="#custom-modal" class="tiyanbtn" target="_blank" data-toggle="modal" style="width: 415px; height: 47px;  display: block; margin-top: 229px; margin-left: 89px; display: inline-block;">在线定制</a>
+                <a href="/mainfei.aspx#c" class="tiyanbtn" target="_blank" style="width: 415px; height: 47px;  display: block; margin-top: 50px; margin-left: 88px;  display: inline-block;">免费体验</a>
+            </div>
+        </div>
+    </div>
+    <!--开课计划-->
+    
+    <div style="height: 389px; background: url(images/index_12.jpg) no-repeat center top;">
+    </div>
+    
+    <div style=" height:338px; background:url(images/1_13_01.jpg) no-repeat center top;">
+       
+    </div>
+
+        <div   style=" background-color:#3accc1; overflow:hidden;">
+            <div class="w2">
+     <a href="http://www15.53kf.com/webCompany.php?arg=10108742&style=1" class="jiuye_btn"></a>
+    </div>
+        </div>
+
+    <div style=" height:220px; background:url(images/1_13_02.jpg) no-repeat center top;">
+    </div>
+    <div style="height: 305px; background: url(images/零基础~1_14.jpg) no-repeat center top;">
+    </div>
+    <script src="../js/foot.js" type="text/javascript"></script>
+    
+<!--左侧浮窗-->
+<div class="public_box public_left">
+    <span class="shouqi_left">收起</span>
+    <a href="http://www15.53kf.com/webCompany.php?arg=10108742&style=1" target="_blank" title="" class="ico public_left_slyA">点击咨询</a>
+    <a href="http://www15.53kf.com/webCompany.php?arg=10108742&style=1" target="_blank" title="" class="ico2 public_left_slyB">查看最近校区</a>
+    <a href="/kstest.aspx" target="_blank" title="" class="ico3 public_left_slyC">点击测试</a>
+</div>
+<div class="Open_left">
+    <img src="/images/QQonli.png" alt="" />
+</div>
+<!--/左侧浮窗-->
+<!--右侧浮窗 隐藏-->
+
+
+
+
+<!--/右侧浮窗-->
+<!--百度离线宝-->
+<script type="text/javascript">
+        var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+        document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fb715566d5e5dd608f46e7c44bb0388db' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+<!--/百度离线宝-->
+
+
+<script type="text/javascript">
+    $(function () {
+        $(".Open").bind("click", function () {
+            $(this).hide();
+            $(".public_right").show();
+        });
+        $(".shouqi").bind("click", function () {
+            $(".public_right").hide();
+            $(".Open").show();
+        });
+
+
+        $(".Open_left").bind("click", function () {
+            $(this).hide();
+            $(".public_left").show();
+        });
+        $(".shouqi_left").bind("click", function () {
+            $(".public_left").hide();
+            $(".Open_left").show();
+        });
+    });
+</script>
+
+
+
+
+
+<!---------*****************免费电话弹窗********************/------->
+<div class="phonebox" id="phonebox-modal">
+    <a class="close" data-dismiss="modal">×</a>
+    <div class="phonebox_s">
+        <ul>
+            <li>固定电话、小灵通请在号码前加区号，如：010*********</li>
+            <li>接输入号码(长途不需加0)，如：139********</li>
+            <li>此呼叫为免费呼叫，您的电话无需承担任何费。请勿恶意拨打，谢谢合作！<em></em></li>
+        </ul>
+        <p><span>称呼：</span><input id="PhoneName" type="text" value="" /><em>*</em></p>
+        <p><span>联系电话：</span><input id="PhoneS" type="text" value="" /><em>*</em></p>
+        <div class="phone_send">
+            <span class="meifeng" modal="top">点击通话</span><span>重置</span>
+        </div>
+    </div>
+
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $("#right_IPHONE").hover(
+            function () {
+                if ($("#right_IPHONE").val() == "请输入您的手机号码") {
+                    $("#right_IPHONE").val("");
+                }
+            },
+            function () {
+                if ($("#right_IPHONE").val() == "") {
+                    $("#right_IPHONE").val("请输入您的手机号码");
+                }
+            }
+        );
+
+        $(".meifeng").click(function () {
+            var PhoneName = "";
+            var PhoneS = "";
+            if ($(this).attr("modal") == "right") {
+                PhoneName = "右边浮窗免费电话"
+                PhoneS = $("#right_IPHONE").val();
+            }
+            else {
+                PhoneName = $("#PhoneName").val();
+                PhoneS = $("#PhoneS").val();
+            }
+            $.ajax({
+                url: '/Ashx/System.ashx',
+                type: 'post',
+                dataType: 'json',
+                data: { "Type": "addPhone", "Name": PhoneName, "Phone": PhoneS },
+                async: false,
+                success: function (res) {
+                    if (res.code == 200) {
+                        alert(res.data);
+                        $(".close").click();
+                    }
+                    else if (res.code == 400) {
+                        alert(res.data)
+                    }
+                    else { alert(res.data) }
+                },
+                error: function () { alert("error"); }
+            })
+        })
+    })
+</script>
+<!---------*****************免费电话弹窗结束********************/------->
+
+
+
+
+<!---------*****************课程定制弹窗********************/------->
+<div class="custom" id="custom-modal">
+    <a class="close" data-dismiss="modal" style="color: #000">×</a>
+    <p class="custom_p">课程定制中心</p>
+    <div class="step">课程定制第一步:您学习会计最看重什么？</div>
+    <div class="step_box">
+        <div class="step_box_s">
+            <ul data-field="kzsm" data-hasstatus="false">
+                <li><span>工作好找</span></li>
+                <li><span class="step_colorB">升职加薪</span></li>
+                <li><span class="step_colorC">工作稳定</span></li>
+                <li><span class="step_colorD">越老越吃香</span></li>
+                <li><span class="step_colorE">学费低廉</span></li>
+                <li><span class="step_colorD">容易学习</span></li>
+                <li><span class="step_colorA">受人尊重</span></li>
+                <li><span class="step_colorF">好找对象</span></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step_box setp_none">
+        <div class="step_box_s step_2">
+            <ul data-field="sex" data-hasstatus="false">
+                <li><span>我是淑女一枚</span></li>
+                <li><span class="step_colorB">我是帅哥一个</span></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step_box setp_none">
+        <div class="step_box_s step_3">
+            <ul data-field="jc" data-hasstatus="true">
+                <li data-status="0"><span>我是零基础</span></li>
+                <li data-status="1"><span class="step_colorB">刚拿会计证</span></li>
+                <li data-status="0"><span class="step_colorC">无会计证但已从事会计一年以上</span></li>
+                <li data-status="1"><span class="step_colorD">有会计证并已从事会计一年以上</span></li>
+                <li data-status="1"><span class="step_colorF">从事会计多年，想提升一个层次</span></li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="step_box setp_none">
+        <div class="step_box_s step_4">
+            <ul data-field="edu" data-hasstatus="true">
+                <li data-status="0"><span>初中及以下</span></li>
+                <li data-status="0"><span class="step_colorB">高中学历</span></li>
+                <li data-status="0"><span class="step_colorC">中专/中技</span></li>
+                <li data-status="1"><span class="step_colorD">大专学历</span></li>
+                <li data-status="2"><span class="step_colorF">本科学历</span></li>
+                <li data-status="2"><span class="step_colorF">研究生及以上</span></li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="step_box setp_none">
+        <div class="step_box_s step_5">
+            <ul data-field="time" data-hasstatus="false">
+                <li><span>我当前在职五天工作制</span></li>
+                <li><span class="step_colorB">我当前在职六天工作制</span></li>
+                <li><span class="step_colorC">我当前在职早晚班轮班制</span></li>
+                <li><span class="step_colorD">我休闲在家有较多个人时间</span></li>
+                <li><span class="step_colorF">我是在校学生时间较为充裕</span></li>
+                <li><span class="step_colorF">我是在校学生正在放长假</span></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step_box setp_none">
+        <div class="step_box_s step_7">
+            <ul data-field="mb" data-hasstatus="true">
+                <li data-status="0"><span>专业会计人员</span></li>
+                <li data-status="1"><span class="step_colorB">精英财务人员</span></li>
+                <li data-status="2"><span class="step_colorC">财务经理</span></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step_box setp_none">
+        <div class="step_box_s step_6">
+            <div>
+                <p>定制结果已生成，我们将以短信形式发至您的手机上！</p>
+                <p>
+                    <input type="text" value="请输入姓名" id="userName" /><input type="text" value="请输入手机号码" id="setpok" /><a class="lookres">查看结果</a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="step_footer">
+        点击图标进入下一步
+    </div>
+
+</div>
+<style>
+    .step_6 input{
+        margin-left:10px;
+        width:135px;
+        padding-left:5px;
+    }
+</style>
+<script type="text/javascript">
+    var myData = {};
+    $(document).ready(function () {
+        var Qstring = "";
+        var hdid = 0;
+        $(".step_box_s ul li").click(function () {
+            Qstring += $(this).text() + ",";
+            $(this).parents(".step_box").hide();
+            $(this).parents(".step_box").next().show();
+
+            if (hdid == 0) {
+                $(".step").text("课程定制第二步:您的性别是？")
+            }
+            else if (hdid == 1) {
+                $(".step").text("课程定制第三步:您对会计有多少了解？")
+            }
+            else if (hdid == 2) {
+                $(".step").text("课程定制第四步:您的学历层次是什么？")
+            }
+            else if (hdid == 3) {
+                $(".step").text("课程定制第五步:您当前的工作状态？")
+            }
+            else if (hdid == 4) {
+                $(".step").text("课程定制第六步:您期望达到的学习效果？")
+            }
+            else if (hdid == 5) {
+                $(".step").text("恭喜您，课程定制成功！")
+            }
+            hdid++;
+        });
+        $(".step_box ul li").click(function () {
+            var $this = $(this);
+            var $ul = $this.parents("ul");
+            //记录用户选择
+            myData[$ul.attr("data-field")] = $this.text();
+            if ($ul.attr("data-hasStatus") == 'true') {
+                myData[$ul.attr("data-field") + "Status"] = $this.attr("data-status");
+            }
+        })
+
+        $("#setpok").hover(
+            function () {
+                if ($("#setpok").val() == "请输入手机号码") {
+                    $("#setpok").val("");
+                }
+            },
+            function () {
+                if ($("#setpok").val() == "") {
+                    $("#setpok").val("请输入手机号码");
+                }
+            });
+        $("#userName").hover(
+            function () {
+                if ($("#userName").val() == "请输入姓名") {
+                    $("#userName").val("");
+                }
+            },
+            function () {
+                if ($("#userName").val() == "") {
+                    $("#userName").val("请输入姓名");
+                }
+            });
+
+
+        $(".lookres").click(function () {
+            var phone = $("#setpok").val();
+            var userName = $("#userName").val();
+            if (!/^[\d]{11}$/.test(phone)) {
+                alert("手机号码有误");
+                return false;
+            }
+            else
+                myData["phone"] = phone;
+
+            if (userName == undefined || userName == null || userName == "" || userName == "请输入姓名") {
+                alert("用户名有误");
+                return false;
+            }
+            else
+                myData["userName"] = userName;
+                
+                $.ajax({
+                    url: '/Ashx/AddCustomize.ashx',
+                    type: 'post',
+                    dataType: 'json',
+                    //data: { "Type": "addCustomize", "Details": Qstring, "Phone": $("#setpok").val() },
+                    data:myData,
+                    async: false,
+                    success: function (res) {
+                        if (res.code == 200) {
+                            Qstring = ""; //清空操作
+                            $(this).parents(".step_box").hide();
+                            $(".close").click();
+                            $(".step_box:first").show();
+                            $(".step").text(" 课程定制第一步:您学习会计最看重什么？");
+                            $("#tjtips-modal").modal("show");
+                        }
+                        else if (res.code == 400) {
+                            alert(res.data)
+                        }
+                        else { alert(res.data) }
+                    },
+                    error: function () { alert("error"); }
+                })
+        })
+        $("#tjtips_modal_btn").click(function () {
+            $("#tjtips-modal").modal("hide");
+        });
+        $("#ceshitips-modal_btn").click(function () {
+            $("#ceshitips-modal").modal("hide");
+        });
+        $("#ceshitips_modal_btn").click(function () {
+            $("#ceshitips-modal").modal("hide");
+        });
+        $("#tishia-modal_btn").click(function () {
+            $("#tishia-modal").modal("hide");
+        });
+    });
+</script>
+
+
+<!--判断校区 绵阳校区使用营销QQ 其他校区使用商务通-->
+
+<!---------*****************课程定制弹窗结束********************/------->
+
+<!--请将以下码嵌入到您网页源代码的最后面，通常是</body></HTML>之后,这样在服务器升级维护的时候也不会影响您的网页打开呈现速度。-->
+<script language="javascript">
+<!--
+    var LiveAutoInvite0 = '您好，来自%IP%的朋友';
+    var LiveAutoInvite1 = '来自首页自动邀请的对话';
+    var LiveAutoInvite2 = '网站商务通主要功能：<br>1、主动邀请<br>2、即时沟通<br>3、查看即时访问动态<br>4、访问轨迹跟踪<br>5、内部对话<br>6、不安装任何插件也实现双向文件传输<br><br><b>如果您有任何问题请接受此邀请以开始即时沟通</b>';
+    var LR_next_invite_seconds = 20;
+    var LrinviteTimeout = 15;
+    //-->
+</script>
+
+
+<script type='text/javascript' src='http://tb.53kf.com/kf.php?arg=10108742&style=1'></script>
+<style type="text/css">
+    #LXB_CONTAINER .lxb-pos-right {
+        left: 3px;
+    }
+</style>
+
+<script type="text/javascript">
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fb715566d5e5dd608f46e7c44bb0388db' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<!--全局代码-->
+
+
+	<!-- 腾讯分析代码 -->
+<script type="text/javascript" src="http://tajs.qq.com/gdt.php?sId=50384269" charset="UTF-8"></script>
+        <!--51la代码-->
+    <script language="javascript" type="text/javascript" src="http://js.users.51.la/17813769.js"></script>
+<noscript><a href="http://www.51.la/?17813769" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/17813769.asp" style="border:none" /></a></noscript>
+        <!--51la代码-->   
+	
+
+</body>
+</html>

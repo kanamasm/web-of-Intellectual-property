@@ -1,0 +1,1299 @@
+[ 2016-04-06T15:05:23+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T15:05:46+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T15:20:34+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015588s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000521s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.057898s ]
+INFO: [ view_template ] --END-- [ RunTime:0.057995s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.038421s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038532s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000567s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000567s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000432s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000645s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002439s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000644s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000719s ]
+
+[ 2016-04-06T15:20:40+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015825s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000585s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001319s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001423s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010055s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010166s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000860s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000894s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000753s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000956s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003711s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000979s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001060s ]
+
+[ 2016-04-06T15:20:45+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000999s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.027971s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000557s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001339s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001448s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009989s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010119s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000862s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000830s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000645s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000862s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003438s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000876s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000957s ]
+
+[ 2016-04-06T15:20:50+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001545s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015002s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000596s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001317s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001417s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010080s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000891s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001106s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000813s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000987s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004081s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000999s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001079s ]
+
+[ 2016-04-06T15:20:55+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002158s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002465s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.018163s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000538s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001360s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001470s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010320s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010435s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000817s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000783s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000635s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000849s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003314s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000971s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001055s ]
+
+[ 2016-04-06T15:21:00+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001710s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.016621s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000545s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001298s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001417s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.011030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011148s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000915s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000885s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000748s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000966s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003750s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000941s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001026s ]
+
+[ 2016-04-06T15:21:05+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002288s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.018605s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000583s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001454s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001583s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.012116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012245s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000885s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000889s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000775s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003948s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001300s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001390s ]
+
+[ 2016-04-06T15:21:10+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001520s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015570s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000574s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001350s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001464s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010436s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010550s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000907s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000898s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000759s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001049s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003848s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001009s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001089s ]
+
+[ 2016-04-06T15:21:15+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001267s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.017945s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000665s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001633s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001760s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.012609s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012742s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001032s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001051s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000876s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004384s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001169s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001267s ]
+
+[ 2016-04-06T15:21:20+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.016481s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000603s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001330s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001432s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010285s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010399s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000867s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000875s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000715s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000914s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003593s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000941s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001020s ]
+
+[ 2016-04-06T15:21:25+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001314s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.016265s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000608s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001300s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001400s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009972s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000860s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000818s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000663s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000889s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003467s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001028s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001117s ]
+
+[ 2016-04-06T15:21:30+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001401s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.021239s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000701s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001741s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001884s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.012032s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012162s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000815s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000789s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000637s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000938s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003416s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001033s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001116s ]
+
+[ 2016-04-06T15:21:35+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015737s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000526s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001332s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001439s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010110s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010223s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001181s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000698s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000869s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004039s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000888s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000969s ]
+
+[ 2016-04-06T15:21:40+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001034s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.016554s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000538s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001234s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001339s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010012s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010130s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000880s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000934s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000678s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000864s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003597s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000880s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000959s ]
+
+[ 2016-04-06T15:21:45+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.021608s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000690s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001732s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001853s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013892s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001147s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001121s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000985s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004742s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001322s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001421s ]
+
+[ 2016-04-06T15:21:50+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001254s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.017714s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000603s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001648s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001761s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.011642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011755s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000945s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000899s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000769s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000942s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003776s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000956s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001030s ]
+
+[ 2016-04-06T15:21:55+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001477s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.024105s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000826s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001949s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002133s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.022088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022327s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001320s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000852s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000777s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000909s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004147s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001061s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001147s ]
+
+[ 2016-04-06T15:22:00+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002383s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.028046s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000707s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001830s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002024s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.017456s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017632s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001313s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001463s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001057s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001535s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007505s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002292s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002495s ]
+
+[ 2016-04-06T15:22:05+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001434s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015435s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000459s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001309s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001404s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010038s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010144s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000782s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000778s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000672s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000856s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003305s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000887s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000964s ]
+
+[ 2016-04-06T15:22:10+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.016692s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000537s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001437s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001569s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010134s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000805s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000802s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000709s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003395s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000954s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001034s ]
+
+[ 2016-04-06T15:22:15+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002555s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.019035s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000570s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001411s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001522s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013398s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013519s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000858s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000849s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000696s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003906s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001498s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001639s ]
+
+[ 2016-04-06T15:22:20+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001384s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015658s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000569s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001428s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001533s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010504s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000955s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000888s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000755s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003849s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001028s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001109s ]
+
+[ 2016-04-06T15:22:25+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.021419s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000711s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001983s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002124s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.011821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011944s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000914s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000907s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000766s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000971s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003812s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000984s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001073s ]
+
+[ 2016-04-06T15:22:30+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001698s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.019113s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000931s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001579s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001687s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013155s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013266s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000865s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000967s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000838s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001487s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004470s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001308s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001435s ]
+
+[ 2016-04-06T15:22:35+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015251s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000537s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001323s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001417s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009681s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000784s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000773s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000671s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000846s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003286s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000912s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000988s ]
+
+[ 2016-04-06T15:22:40+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015499s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000531s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001322s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001420s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010213s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010325s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000838s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000819s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000805s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003893s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001052s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001143s ]
+
+[ 2016-04-06T15:22:45+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001477s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.018266s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000517s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001372s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001469s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010114s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010225s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000844s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000797s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000666s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000855s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003384s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000901s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2016-04-06T15:22:50+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001456s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015760s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000588s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001452s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001555s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010902s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011004s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000889s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000895s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000770s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000989s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003763s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000999s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001073s ]
+
+[ 2016-04-06T15:22:55+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.016167s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000517s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001414s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001531s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010420s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000852s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000837s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000659s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003452s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000905s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000984s ]
+
+[ 2016-04-06T15:23:00+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001627s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015471s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000543s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001352s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001452s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010162s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000918s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001058s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000788s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000981s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003972s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000985s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001057s ]
+
+[ 2016-04-06T15:23:05+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001176s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.016850s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000537s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001389s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001489s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010198s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000783s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000822s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000681s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000878s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003377s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000949s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001026s ]
+
+[ 2016-04-06T15:23:10+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015341s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000616s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001378s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001472s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010020s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010120s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000982s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000920s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000775s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000992s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003924s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001049s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001128s ]
+
+[ 2016-04-06T15:23:15+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001203s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015392s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000558s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001408s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001508s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009903s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010010s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000827s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000848s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000694s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000907s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003499s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000935s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2016-04-06T15:23:20+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002017s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.017722s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000594s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001600s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001712s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.011496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011615s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000953s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000913s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000765s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000981s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003867s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001042s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001129s ]
+
+[ 2016-04-06T15:23:25+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001701s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.016975s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000560s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001394s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001492s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010445s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010553s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000860s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000852s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000674s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000869s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003474s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000924s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-04-06T15:23:30+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002361s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015208s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000604s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001351s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001444s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010258s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010360s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000888s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000859s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000766s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000946s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003675s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000967s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001043s ]
+
+[ 2016-04-06T15:23:35+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002758s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.063761s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.001411s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.003174s ]
+INFO: [ view_template ] --END-- [ RunTime:0.003481s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.017989s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018159s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000983s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001104s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001074s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000896s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004342s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000921s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2016-04-06T15:23:40+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015016s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000555s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001366s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001459s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010177s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010278s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000911s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000946s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000838s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000996s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003914s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001039s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001117s ]
+
+[ 2016-04-06T15:23:45+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001411s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015704s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000567s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001274s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001373s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010471s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000847s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000810s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000645s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000861s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003397s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000899s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000980s ]
+
+[ 2016-04-06T15:23:50+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002133s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.017040s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000579s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001360s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001467s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010129s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010246s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000893s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000869s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000731s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000968s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003689s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001039s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001122s ]
+
+[ 2016-04-06T15:23:55+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000933s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015355s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000515s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001265s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001368s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009786s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009893s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000882s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000945s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000679s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000873s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003617s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000926s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001009s ]
+
+[ 2016-04-06T15:24:00+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002645s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.016171s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000578s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001386s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001492s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009991s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010098s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000963s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000896s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000744s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000969s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003802s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000959s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001035s ]
+
+[ 2016-04-06T15:24:05+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001426s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015233s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000587s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001366s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001472s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010147s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000914s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000988s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000729s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000999s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003867s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000975s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001055s ]
+
+[ 2016-04-06T15:24:10+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015573s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000536s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001337s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001442s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009922s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010033s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000811s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000914s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000671s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000866s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003593s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000884s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000959s ]
+
+[ 2016-04-06T15:24:15+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001541s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.019574s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000576s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001572s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001714s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.012099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012233s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001036s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001110s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001058s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001223s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004763s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001013s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001111s ]
+
+[ 2016-04-06T15:24:20+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002724s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.021935s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000662s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001636s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001759s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.012821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012955s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001044s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001176s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000896s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001209s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004697s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001203s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001303s ]
+
+[ 2016-04-06T15:24:25+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001472s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.016883s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000607s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001678s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001810s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010526s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000890s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000865s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000740s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003692s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000945s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001022s ]
+
+[ 2016-04-06T15:24:30+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001241s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.016654s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000564s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001324s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001430s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010170s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010286s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000819s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000788s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000639s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003329s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000957s ]
+
+[ 2016-04-06T15:24:35+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001347s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.015161s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000545s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001391s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001498s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009868s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009988s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000799s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001036s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000800s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000892s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003829s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000912s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000994s ]
+
+[ 2016-04-06T15:24:40+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.018867s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000543s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001266s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001364s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010253s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000918s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000827s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000640s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000863s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003485s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000883s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000964s ]
+
+[ 2016-04-06T15:24:45+08:00 ] 0.0.0.0 /WebLaw/index.php/Opeartion/b1.html
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001592s ]
+SQL: SHOW COLUMNS FROM `wl_comment` [ RunTime:0.017253s ]
+SQL: SELECT * FROM `wl_comment` WHERE ( `username` = '666' ) ORDER BY id asc  [ RunTime:0.000522s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001278s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001386s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010132s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010264s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001197s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000871s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000787s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004233s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001090s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001195s ]
+
+[ 2016-04-06T15:29:07+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T15:29:15+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=11
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001329s ]
+SQL: SHOW COLUMNS FROM `wl_user` [ RunTime:0.017882s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_user` WHERE ( `username` = '11' ) LIMIT 1   [ RunTime:0.000493s ]
+
+[ 2016-04-06T15:29:16+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=111
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001174s ]
+SQL: SHOW COLUMNS FROM `wl_user` [ RunTime:0.072079s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_user` WHERE ( `username` = '111' ) LIMIT 1   [ RunTime:0.000599s ]
+
+[ 2016-04-06T15:29:19+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=1111
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001421s ]
+SQL: SHOW COLUMNS FROM `wl_user` [ RunTime:0.399897s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_user` WHERE ( `username` = '1111' ) LIMIT 1   [ RunTime:0.000540s ]
+
+[ 2016-04-06T15:29:29+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=1111
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001355s ]
+SQL: SHOW COLUMNS FROM `wl_user` [ RunTime:0.018364s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_user` WHERE ( `username` = '1111' ) LIMIT 1   [ RunTime:0.000494s ]
+
+[ 2016-04-06T15:29:34+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=1111
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+SQL: SHOW COLUMNS FROM `wl_user` [ RunTime:0.043533s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_user` WHERE ( `username` = '1111' ) LIMIT 1   [ RunTime:0.000495s ]
+
+[ 2016-04-06T15:31:06+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001315s ]
+SQL: SHOW COLUMNS FROM `wl_user` [ RunTime:0.015380s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_user` WHERE ( `username` = '' ) LIMIT 1   [ RunTime:0.000492s ]
+
+[ 2016-04-06T15:31:54+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+SQL: SHOW COLUMNS FROM `wl_user` [ RunTime:0.017588s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_user` WHERE ( `username` = '' ) LIMIT 1   [ RunTime:0.000571s ]
+
+[ 2016-04-06T15:32:26+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001202s ]
+SQL: SHOW COLUMNS FROM `wl_user` [ RunTime:0.048151s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_user` WHERE ( `username` = '' ) LIMIT 1   [ RunTime:0.000549s ]
+
+[ 2016-04-06T15:32:28+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+SQL: SHOW COLUMNS FROM `wl_user` [ RunTime:0.015904s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_user` WHERE ( `username` = '' ) LIMIT 1   [ RunTime:0.000481s ]
+
+[ 2016-04-06T15:32:30+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=123
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001247s ]
+SQL: SHOW COLUMNS FROM `wl_user` [ RunTime:0.015609s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_user` WHERE ( `username` = '123' ) LIMIT 1   [ RunTime:0.000484s ]
+
+[ 2016-04-06T15:34:42+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=123
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+SQL: SHOW COLUMNS FROM `wl_user` [ RunTime:0.014940s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_user` WHERE ( `username` = '123' ) LIMIT 1   [ RunTime:0.000470s ]
+
+[ 2016-04-06T15:34:47+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=eee
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+SQL: SHOW COLUMNS FROM `wl_user` [ RunTime:0.015487s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_user` WHERE ( `username` = 'eee' ) LIMIT 1   [ RunTime:0.000452s ]
+
+[ 2016-04-06T15:35:22+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=eee
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001880s ]
+SQL: SHOW COLUMNS FROM `wl_user` [ RunTime:0.015478s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_user` WHERE ( `username` = 'eee' ) LIMIT 1   [ RunTime:0.000512s ]
+
+[ 2016-04-06T15:36:38+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=eee
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001194s ]
+SQL: SHOW COLUMNS FROM `wl_user` [ RunTime:0.036154s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_user` WHERE ( `username` = 'eee' ) LIMIT 1   [ RunTime:0.000544s ]
+
+[ 2016-04-06T15:37:22+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=eee
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001175s ]
+SQL: SHOW COLUMNS FROM `wl_manager` [ RunTime:0.016881s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_manager` WHERE ( `username` = 'eee' ) LIMIT 1   [ RunTime:0.000530s ]
+
+[ 2016-04-06T15:37:24+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=1
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001446s ]
+SQL: SHOW COLUMNS FROM `wl_manager` [ RunTime:0.015626s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_manager` WHERE ( `username` = '1' ) LIMIT 1   [ RunTime:0.000531s ]
+
+[ 2016-04-06T15:37:25+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=111
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+SQL: SHOW COLUMNS FROM `wl_manager` [ RunTime:0.016258s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_manager` WHERE ( `username` = '111' ) LIMIT 1   [ RunTime:0.000456s ]
+
+[ 2016-04-06T15:37:26+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=1111
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: SHOW COLUMNS FROM `wl_manager` [ RunTime:0.015194s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_manager` WHERE ( `username` = '1111' ) LIMIT 1   [ RunTime:0.000512s ]
+
+[ 2016-04-06T15:37:51+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=11
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001038s ]
+SQL: SHOW COLUMNS FROM `wl_manager` [ RunTime:0.015162s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_manager` WHERE ( `username` = '11' ) LIMIT 1   [ RunTime:0.000460s ]
+
+[ 2016-04-06T15:39:14+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=123
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002295s ]
+SQL: SHOW COLUMNS FROM `wl_manager` [ RunTime:0.020153s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_manager` WHERE ( `username` = '123' ) LIMIT 1   [ RunTime:0.000477s ]
+
+[ 2016-04-06T15:39:21+08:00 ] ERR: (ThinkException) 非法操作:login
+[ 2016-04-06T15:39:40+08:00 ] ERR: (ThinkException) 非法操作:login
+[ 2016-04-06T15:39:44+08:00 ] 0.0.0.0 /WebLaw/index.php/Index/checkName?username=11
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001540s ]
+SQL: SHOW COLUMNS FROM `wl_manager` [ RunTime:0.015853s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wl_manager` WHERE ( `username` = '11' ) LIMIT 1   [ RunTime:0.000542s ]
+
+[ 2016-04-06T15:39:49+08:00 ] ERR: (ThinkException) 非法操作:login
+[ 2016-04-06T15:43:47+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T15:43:54+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T16:04:43+08:00 ] ERR: (ThinkException) 非法操作:idex
+[ 2016-04-06T16:06:19+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T16:07:10+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T16:09:53+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T16:17:42+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T16:17:45+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T16:18:06+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T16:30:32+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T16:31:35+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T16:32:05+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T16:40:44+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T16:40:49+08:00 ] ERR: (ThinkException) 非法操作:manager_manager_super
+[ 2016-04-06T16:41:22+08:00 ] ERR: (ThinkException) 非法操作:manager_manager_super
+[ 2016-04-06T16:41:24+08:00 ] ERR: (ThinkException) 非法操作:manager_manager_super
+[ 2016-04-06T16:41:32+08:00 ] ERR: (ThinkException) 非法操作:manager_manager_super
+[ 2016-04-06T16:41:37+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T16:41:42+08:00 ] ERR: (ThinkException) 非法操作:manager_manager_super
+[ 2016-04-06T16:42:02+08:00 ] ERR: (ThinkException) 非法操作:manager_manager_super
+[ 2016-04-06T16:42:04+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T16:49:15+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T17:17:06+08:00 ] ERR: (ThinkException) 非法操作:checkName
+[ 2016-04-06T17:19:28+08:00 ] ERR: (ThinkException) 非法操作:checkName

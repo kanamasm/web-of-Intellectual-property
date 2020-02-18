@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<load href="__PUBLIC__/Js/jquery.js" />
+</head>
+<body>
+<div  id="test1">
+
+<textarea style="width:1050px;height:280px;background:white" readonly='readonly' wrap="hard" cols='1000' style="width:100%;height:100%;">   <foreach name='data' item='vo'>
+				    {$vo.who} {$vo.time|date='Y-m-d H:i:s',###}
+
+    {$vo.substance}
+		
+    
+  &nbsp </foreach>
+	</textarea>
+	<div>
+
+</body>
+</html>
+

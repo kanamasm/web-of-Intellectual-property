@@ -1,0 +1,267 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    	<noscript>
+			<meta http-equiv="refresh" content="0;url=about:noscript" />
+		</noscript>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <title>&#21551;&#24503;&#25945;&#32946;31&#24180;&#19987;&#19994;&#30041;&#23398;&#21672;&#35810;&#26381;&#21153;</title>
+        <script type="text/javascript" src="scripts/jquery-1.4.2.min.js"></script>
+        <script type="text/javascript">var isHejNewSkin = false;</script>
+		<link href="refactor/style/layout/new_main.css?v=201506190936" rel="stylesheet" type="text/css"/>
+        <link href="refactor/style/theme/default/alert/new-seaBlue/skin.css" rel="stylesheet" type="text/css" title="newSkin"/>
+				        
+		<!-- up -->
+        <script type="text/javascript">var fromChatBoxInfo="";var lang=0;conPort="80";if(!LIM)var LIM={};LIM.config={"hasnewreplay":"false","companyID":"8940","protocol":"http","configContent": "live800_chatBanner=http%3A%2F%2Fwww.eic.org.cn%2FImages%2Flive800%2F2016shuoshi.jpg&live800_chatBannerLink=http%3A%2F%2Fwww.eic.org.cn%2Fspecial%2Fsummary_postgraduate%2F&live800_chatExitSurvey=1&live800_showSurviceTip=1&live800_showOneMonthSurveyTip=0&live800_showMesBuddle=0&live800_showVoiceChat=0&live800_showTextToVoice=0&live800_capture=0&live800_chatLogoUrl=http%3A%2F%2Fwww.eic.org.cn%2FImages%2Flive800%2F300%2B60_1.jpg&live800_chatLogoLink=http%3A%2F%2Fwww.eic.org.cn&live800_show_survey=0&live800_survey_chater_times=20&live800_survey_operator_times=20&live800_staffService=0&live800_robotService=&live800_onlineLeaveword=0&live800_complaint=1&live800_selfSeachService=&live800_intelligentSearch=0&live800_userDefinedButton=1&live800_adLeftName=%E7%95%99%E5%AD%A6%E8%B5%84%E8%AE%AF&live800_adRightName=%E7%95%99%E5%AD%A6%E6%B4%BB%E5%8A%A8&live800_adLeftEnable=1&live800_adRightEnable=1&live800_rightExtendWindow=0&live800_rightWindowIds=#&live800_commonQuestion=1&live800_qq=0&live800_msn=0&live800_fetion=0&live800_sms=0","baseUrl": "live800.eic.org.cn","baseHtmlUrl": "live800.eic.org.cn","baseChatClient": "/chatClient","skin":"new-seaBlue","robotInnerId":"","serviceType":"2","loginUrlEnable":true,"remoteHelp":false,"chatLogoUrl":"http%3A%2F%2Fwww.eic.org.cn%2FImages%2Flive800%2F300%2B60_1.jpg","chatLogoLink":"http%3A%2F%2Fwww.eic.org.cn","leavewordEnable":true,"cln":"eic","pageKey":"JjPngSbeNkzJTnjhq5xr","skillId":"","operatorId":"","showRule":"0","mesBubble":"0",
+			"baseWebApp": "/live800","baseChatClient": "/chatClient","webDomains": "live800.eic.org.cn","appDomains": "live800.eic.org.cn","chatDirDomains": "live800.eic.org.cn"+"/live800"+"/chatClient","appDirDomains": "live800.eic.org.cn"+"/live800","configTimeout": "timeoutConfig=0","language": "0","bannerUrl":"http%3A%2F%2Fwww.eic.org.cn%2FImages%2Flive800%2F2016shuoshi.jpg","bannerLink":"http%3A%2F%2Fwww.eic.org.cn%2Fspecial%2Fsummary_postgraduate%2F","exitSurvey":"1","timeoutTip":"您已长时间未响应客服对话，如果时间过长未响应，对话将结束!","timeoutOver":"您过长时间未响应客服，系统已结束您的对话，欢迎下次咨询!","isShowPreChat":false,"contact":"vid%3Dv75821268%26vna%3D","ip":"120.236.154.180","uniqueKey":"37E33C2A87783D7924C31F0D1FAA687D_1457362936135_8940","isShowSurvey":false,"showSurveyChaterTimes":"20","showSurveyOperatorTimes":"20","showOperatorInfo":"0",
+			"frequency":{enable:0,msgNum:6,notice:'%E5%8F%91%E8%A8%80%E8%BF%87%E9%A2%91%E7%B9%81%EF%BC%8C%E8%AF%B7%E6%82%A8%E8%80%90%E5%BF%83%E7%AD%89%E5%BE%85%EF%BC%81'},"autoStop":{enable:0,chat:30,stop:5,notice:'%E5%AF%B9%E8%AF%9D%E5%B7%B2%E7%BB%8F%E8%B6%85%E8%BF%8730%E5%88%86%E9%92%9F%EF%BC%8C%E8%AF%B75%E5%88%86%E9%92%9F%E5%90%8E%E5%86%8D%E8%AF%95%EF%BC%81'},"forbidWord":{enable:1,word:["挖掘机","挖 掘 机","技术哪家强","挖厥机","蓝翔","蓝 翔","挖搅机","挖觉机","挖","掘","哪家强","瓦聚集技术那价钱","技术哪家好","娃绝极","娃觉极","炒菜","新东方烹饪","新东方炒菜","蛙 绝 机","蛙","挖%哇","娃","洼","蓝翔","兰翔","新东方厨师","新东方厨艺","找哪家强","技术哪里强","他妈","它妈","她妈","他吗","他 妈","你妈","妈的"],notice:'%E5%B0%8A%E6%95%AC%E7%9A%84%E5%AE%A2%E6%88%B7%EF%BC%8C%E6%82%A8%E5%8F%91%E9%80%81%E7%9A%84%E4%BF%A1%E6%81%AF%E9%87%8C%E5%B8%A6%E6%9C%89%E7%89%B9%E6%AE%8A%E8%AF%8D%E6%B1%87xx%EF%BC%8C%E8%AF%B7%E6%82%A8%E5%88%A0%E9%99%A4%E8%AF%A5%E8%AF%8D%E6%B1%87%E5%90%8E%EF%BC%8C%E5%86%8D%E5%8F%91%E9%80%81%EF%BC%8C%E8%B0%A2%E8%B0%A2%21'},"busyWaitTime":60,"italking":"%3Cmarquee+scrollamount%3D%272%27+onMouseOver%3D%27this.stop%28%29%27+onMouseOut%3D%27this.start%28%29%27%3E%E5%9C%A8%E7%BA%BF%E9%A2%84%E7%BA%A6%E5%8D%B3%E5%8F%AF%E5%85%8D%E8%B4%B9%E8%8E%B7%E5%BE%972016%E5%B9%B4%E6%9C%80%E6%96%B0%E7%95%99%E5%AD%A6%E6%94%BB%E7%95%A5%2F%E6%9C%80%E6%96%B0%E7%95%99%E5%AD%A6%E6%94%BF%E7%AD%96%2F%E5%A5%96%E5%AD%A6%E9%87%91%E6%96%B9%E6%A1%88%2F%E5%85%8D%E8%B4%B9%E8%AF%AD%E8%A8%80%E6%B5%8B%E8%AF%95%2F%E7%AD%BE%E7%BA%A6%E4%BC%98%E6%83%A0%3C%2Fmarquee%3E","toleavemsg":"点击留言","speCodeLeaveUrl":"","speCode":"","sessionId":"37E33C2A87783D7924C31F0D1FAA687D","surveyUrl":"","uploadUrl":"","humanAfterRobotEnable":true,"operatorOffLineAction":false,"operatorBusyAction":false,"isLogin":false,"loginUrl":"","live800Status":"1","selfSeachParms":"companyId%3D8940%26timestamp%3D1457362936144%26hashCode%3Dd83a35bfefeeb87c749ea1d597e35047%26contact%3Dvid%253Dv75821268%2526vna%253D","visitorName":"",
+			"adLeftEnable":true,"adRightEnable":true,"adLeftName":"&#30041;&#23398;&#36164;&#35759;","adRightName":"&#30041;&#23398;&#27963;&#21160;","chatConfigId":"0","commonQuestion":"true","hasUrlAnalyse":false,"robotPolicyParam":"",
+			"robotService":"false","staffService":"false","selfSeachServiceEnable":"false","onlineLeaveword":"false","complaint":"true","complaintLink":"","isApp":0,"isInnerPage":false,"showTextToVoice":false,
+			"ipProhibit":"false","userProhibit":"false","intelligentSearch":"false","intelligentSearchLink":"http://www.baidu.com","userDefinedButton":"true","userDefinedButtonJson":"[{'id':'67','name':'%E4%BC%81%E4%B8%9AQQ','showType':'0','pic':'http%3A%2F%2Fwww.eic.org.cn%2FImages%2Flive800%2FenterpriseQQ.png','link':'http%3A%2F%2Fcrm2.qq.com%2Fpage%2Fportalpage%2Fwpa.php%3Fuin%3D4001010123%26amp%3Bf%3D1%26amp%3Bty%3D1'},{'id':'69','name':'%E6%B4%BB%E5%8A%A8%E5%BF%AB%E6%8A%A5','showType':'0','pic':'http%3A%2F%2Fwww.eic.org.cn%2FImages%2Flive800%2Fnews.png','link':'http%3A%2F%2Fwww.eic.org.cn%2Factivity%2Fsearch'},{'id':'68','name':'%E6%B5%B7%E5%A4%96%E9%99%A2%E6%A0%A1%E5%BA%93','showType':'0','pic':'http%3A%2F%2Fwww.eic.org.cn%2FImages%2Flive800%2Feic.png','link':'http%3A%2F%2Fwww.eic.org.cn%2Fschool%2Findex'}]","rightWindowJson":"",
+			"showRightWindow":"0","homePageType":"","homePageUrl":"","operatorCrm":"false","isOpenPhoneAccess":true,"visitor":"user","isVideo":"0","videoUrl":"","newService":"[{'id':'1','enable':'1','value':'1','service':'非常满意'},{'id':'2','enable':'1','value':'2','service':'比较满意'},{'id':'3','enable':'1','value':'3','service':'一般'},{'id':'4','enable':'1','value':'4','service':'不满意'},{'id':'5','enable':'1','value':'5','service':'很差'}]","surveyStarShow":"1","serviceZones":"null",
+			"routingParam":"policyId=20","robot":{"enable":false,"robotJs":"http://live800.eic.org.cn/robot/chatClient/refactor/scripts/robot.js"},"callback":"false","autoTip":{"enable":0,"info":"[{'time':'5','words':'%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0EIC%E5%90%AF%E5%BE%B7%E6%95%99%E8%82%B2%EF%BC%8C%E5%BE%88%E9%AB%98%E5%85%B4%E4%B8%BA%E6%82%A8%E6%9C%8D%E5%8A%A1%E3%80%82'},{'time':'60','words':'%5E_%5E%E6%82%A8%E5%A5%BD%EF%BC%8C%E8%AF%B7%E9%97%AE%E6%82%A8%E6%98%AF%E5%AF%B9%E5%93%AA%E6%96%B9%E9%9D%A2%E7%9A%84%E4%BF%A1%E6%81%AF%E6%AF%94%E8%BE%83%E6%84%9F%E5%85%B4%E8%B6%A3%E5%91%A2%EF%BC%9F%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E5%B8%AE%E6%82%A8%E5%85%88%E4%BA%86%E8%A7%A3%E4%B8%80%E4%B8%8B%E5%93%A6'},{'time':'120','words':'%E4%BA%B2%EF%BC%8C%E6%82%A8%E6%98%AF%E6%83%B3%E4%BA%86%E8%A7%A3%E7%95%99%E5%AD%A6%E8%A6%81%E6%B1%82%E3%80%81%E8%B4%B9%E7%94%A8%E9%A2%84%E7%AE%97%E3%80%81%E5%90%8D%E6%A0%A1%E5%A5%96%E5%AD%A6%E9%87%91%E3%80%81%E7%95%99%E5%AD%A6%E7%A7%BB%E6%B0%91%E3%80%81%E8%BF%98%E6%98%AF%E9%9B%85%E6%80%9D%E6%89%98%E7%A6%8FSAT%E7%AD%89%E5%9F%B9%E8%AE%AD%E3%80%81%E6%B8%B8%E5%AD%A6%E9%A1%B9%E7%9B%AE%E5%91%A2%EF%BC%9F%E5%A6%82%E6%9E%9C%E6%82%A8%E6%AF%94%E8%BE%83%E7%B9%81%E5%BF%99%EF%BC%8C%E6%82%A8%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%85%88%E7%95%99%E4%B8%8B%E7%94%B5%E8%AF%9D%E5%92%8C%E6%82%A8%E6%83%B3%E5%92%A8%E8%AF%A2%E7%9A%84%E5%86%85%E5%AE%B9%EF%BC%8C%E6%88%91%E4%BB%AC%E4%BC%9A%E5%AE%89%E6%8E%92%E8%80%81%E5%B8%88%E5%B0%BD%E5%BF%AB%E7%9A%84%E8%81%94%E7%B3%BB%E6%82%A8%E7%9A%84%E5%93%A6%E3%80%82'}]"},"guideTip":{"enable":1,"info":"[{'time':'5','words':'%E6%82%A8%E5%A5%BD%EF%BC%8CEIC%E5%90%AF%E5%BE%B7%E6%95%99%E8%82%B2%EF%BC%8C%E8%AF%B7%E9%97%AE%E6%9C%89%E4%BB%80%E4%B9%88%E5%8F%AF%E4%BB%A5%E5%B8%AE%E6%82%A8%EF%BC%9F'},{'time':'60','words':'%5E_%5E%E6%82%A8%E5%A5%BD%EF%BC%8C%E8%AF%B7%E9%97%AE%E6%82%A8%E6%98%AF%E6%83%B3%E4%BA%86%E8%A7%A3%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6%E3%80%81%E5%AD%A6%E6%B8%B8%E9%A1%B9%E7%9B%AE%E3%80%81%E8%AF%AD%E8%A8%80%E8%80%83%E8%AF%95%E5%9F%B9%E8%AE%AD%E5%93%AA%E6%96%B9%E9%9D%A2%E7%9A%84%E6%83%85%E5%86%B5%E5%91%A2%EF%BC%9F%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E5%B8%AE%E6%82%A8%E5%85%88%E4%BA%86%E8%A7%A3%E4%B8%80%E4%B8%8B%E5%93%A6'},{'time':'120','words':'%E4%BA%B2%EF%BC%8C%E6%82%A8%E6%98%AF%E6%83%B3%E4%BA%86%E8%A7%A3%E7%95%99%E5%AD%A6%E8%A6%81%E6%B1%82%E3%80%81%E8%B4%B9%E7%94%A8%E9%A2%84%E7%AE%97%E3%80%81%E5%90%8D%E6%A0%A1%E5%A5%96%E5%AD%A6%E9%87%91%E3%80%81%E7%95%99%E5%AD%A6%E7%A7%BB%E6%B0%91%E3%80%81%E5%AD%A6%E6%B8%B8%E9%A1%B9%E7%9B%AE%E3%80%81%E8%BF%98%E6%98%AF%E9%9B%85%E6%80%9D%E6%89%98%E7%A6%8FSAT%E7%AD%89%E5%9F%B9%E8%AE%AD%EF%BC%9F%E5%A6%82%E6%9E%9C%E6%82%A8%E6%AF%94%E8%BE%83%E7%B9%81%E5%BF%99%EF%BC%8C%E6%82%A8%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%85%88%E7%95%99%E4%B8%8B%E7%94%B5%E8%AF%9D%E5%92%8C%E6%82%A8%E6%83%B3%E5%92%A8%E8%AF%A2%E7%9A%84%E5%86%85%E5%AE%B9%EF%BC%8C%E6%88%91%E4%BB%AC%E4%BC%9A%E5%AE%89%E6%8E%92%E8%80%81%E5%B8%88%E5%B0%BD%E5%BF%AB%E7%9A%84%E8%81%94%E7%B3%BB%E6%82%A8%E7%9A%84%E5%93%A6%E3%80%82'},{'time':'150','words':'%E6%88%96%E8%80%85%E6%82%A8%E5%8F%AF%E4%BB%A5%E6%B7%BB%E5%8A%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%90%AF%E5%BE%B7%E5%87%BA%E5%9B%BD%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%BE%A42+%EF%BC%9A511612744%EF%BC%8C%E5%AE%9A%E6%9C%9F%E5%8F%91%E5%B8%83%E5%90%84%E7%A7%8D%E7%95%99%E5%AD%A6%E6%96%B0%E6%94%BF%E3%80%81%E5%87%BA%E5%9B%BD%E8%B5%84%E6%96%99%E3%80%81%E8%80%83%E8%AF%95%E8%B5%84%E6%96%99%E3%80%82'}]"}};
+       		 LIM.resource={"changfunc_tip_0":"更多功能","changfunc_tip_1":"人工服务","changfunc_tip_2":"在线留言","changfunc_tip_3":"建议投诉","changfunc_tip_4":"自助查询","changfunc_tip_5":"智能搜索","changfunc_tip_6":"常见问题","changfunc_tip_7":"与服务器连接好像有点堵。请求未发送成功","changfunc_tip_8":"视频通话","changfunc_tip_9":"自助答疑","chater_info_phone_error":"请输入正确的电话号码!","validatejstip8":"指定的元素不存在","categroup1":"您好！欢迎您光临玫琳凯在线客服，请选择您所需咨询的业务类型，并点击进入：","categroup2":"其他业务尚未开通在线客服，请拨打客服热线进行咨询","categroup3":"销售队伍服务专线","categroup4":"欢迎光临唯品会，请选择您需要咨询的业务类型，并点击进入："};
+        	
+        	
+        	
+        </script>
+		<script type="text/javascript" ></script>
+		<script type="text/javascript" src="refactor/scripts/init.js"></script>
+		<script type="text/javascript" src="refactor/scripts/changFunc.js"></script>
+		<style type="text/css">#ReceiveDriverContent,.gac_m{display:none;}#track{position:absolute;top:0;left:0;z-index:-1;visibility:hidden;}</style>
+		<script type="text/javascript">
+		window.onload = function(){
+			var winInfo = {
+				win_width : $(window).width(),
+				win_height : $(window).height(),
+				head_height : $("#header").height(),
+				scorInfo_height : $("#scorInfo").height(),
+				cont_height : $(window).height()-$("#header").height()-$("#scorInfo").height()-$("#footer").height(),
+				footer_height: $("#footer").height(),
+				left_width : $(".l_side").width(),
+				right_width : $(".r_side").width(),
+				spacer_width : $("#spacer").width(),
+				main_width : $("#main").width(),
+				side_height : $("#cont").height()-$("#bottom").height(),
+				center_width : $(window).width() - $(".l_side").width() - $(".r_side").width() - eval($("#spacer")[0]>0?$("#spacer").width():"10")
+			};
+	        if(LIM.config["showRightWindow"]==0){
+	           	$("#spacer").remove();
+	        }
+			if(LIM.config["commonQuestion"]=="true"){
+				if(navigator.appVersion.indexOf("MSIE 6") > 0||navigator.appVersion.indexOf("MSIE 7") > 0){
+					$(".center_left1").css("padding-right","180px");
+				}else{
+					$("#tool_wrap").css("margin-right","180px");
+				}
+			}
+	        if(navigator.appVersion.indexOf("MSIE 6") > 0||navigator.appVersion.indexOf("MSIE 7") > 0){
+	           $("#cont").css("height",winInfo.cont_height+"px");
+	           $("#side").css("height",winInfo.cont_height-$("#bottom").height()-2 +"px");
+	           if(LIM.config["showRightWindow"]==1){
+	        	   	$("#banner").css("height",winInfo.cont_height-30 +'px');
+	        	   	$(".mid_l_c").css("width",Math.round(winInfo.center_width*0.618)-2+"px");
+	           }else{
+	        		$("#banner").css("height",winInfo.cont_height +'px');
+	        		$(".mid_l_c").css("width",winInfo.center_width-winInfo.main_width +"px");
+	        	   	if($("#advertisingBar")[0]){
+	        	   		var position = $("#advertisingBar").position(),position2 = $("#newslist").position();
+						$("#advertisingBar").css("height",winInfo.cont_height - position.top+'px');
+	             		$("#newslist").css("height",winInfo.cont_height - position.top - position2.top+'px');
+	        	   	}
+	           }
+	        }
+	        //广东联通，华尔街新对话窗口logo、按钮位置互换
+	        if(LIM.config.companyID =='10010'||"new-hej"==LIM.config.skin){
+	        	$('#logo').css('background-position','left center');
+                $('#logo').removeClass('hright').addClass('hleft');
+                $('.lefttop').removeClass('hleft').addClass('hright');
+            }
+	        if("new-hej"==LIM.config.skin){
+				$('#logo')[0].style.top= "10px";
+				$('.lefttop')[0].style.bottom= "10px";
+			}
+		}
+  </script>
+</head>
+<body>
+  <div id="container">
+			<div id="header">
+				<div class="l_side h_l"></div>
+				<div class="r_side h_r"></div>
+				<div class="h_content" id="top">
+					<!--头部功能栏、广告、关闭按钮-->
+					<div id="logo" class="hright"></div>
+					<div class="lefttop hleft" id="lefttop">
+						<div class="lefttop_top2" id="functionContainer"></div>
+					</div>
+					<div class="righttop"></div>
+				</div>
+				<div class="clearfloat"></div>
+			</div>
+			<div id="scorInfo">
+			    <div class="l_side s_l"></div>
+				<div class="r_side s_r"></div>
+				<div class="s_content"><span id="headerBox">&nbsp;</span><span id="headerBoxTime"></span></div>
+				<div class="clearfloat"></div>
+			</div>
+			<div id="cont">
+				<div class="l_side c_l"></div>
+				<div class="r_side c_r"></div>
+				<div id="center">					
+					<div id="mid_content" class="mid_content">
+						<div class="mid_l_c">
+							<div class="side" id="side">
+								<div class="center_left1_container">
+									<div id="history">
+									
+										
+										<script>
+										setTimeout(function(){objId("history").scrollTop = 999999;},500);
+										</script>
+									
+									</div>
+									<div id="uploadFileBox" style="display:none;">
+										<iframe id="uploadFileFrame" src="sendFile.htm"></iframe>
+									</div>
+									<div id="emotionsBox" class="hide"></div>
+									<div id='sysTip' style='display:none;'></div>
+								</div>
+							</div>
+							<!--end side-->
+							<div class="bottom" id="bottom">
+								<div class="center_left">
+									<div class="center_left1">
+										<div id="tool_wrap">
+											<ul id="toolsbar">
+												<li id="fontSize" lim:init=1 style='display:none'></li>
+												<li id="file"  style='display:none' title="传送文件"></li>
+												<li id="save"  style='display:none'  title="保存记录"></li>
+												<li id="historyRecord"style=display:none title="历史记录"></li>
+												
+                                                <li id="switch" class="open" title="关提示音"></li>
+												<li id="language" title="语言"style='display: none;'></li>
+												<li id="emoticons"  style='display:none' title="表情"></li>
+												<li id="active"  style='display:none' title="截屏"></li>
+												<li id="cBrowser"  style='display:none' title="远程帮助"></li>
+												<li id="remoteHelp"  style='display:none' title="远程协助"></li>
+												<li id="callBack" style=display:none title="电话回拨"></li>
+												<li id="msn"  style='display:none' account="" title="添加msn好友"></li>
+						                        <li id="qq"  style='display:none' account="" title="添加qq好友"></li>
+												<li id="evaluation"  style='display:none' title="评分"></li>
+												<li id="xt800Help" lim:init=1 style='display:none' title="远程控制"></li>
+												<li id="voiceToText" class="voice_open"  style='display:none' title="语音转文字"></li>
+												<li id="textToVoice" class="voice_open"  style='display:none' title="文字转语音"></li>
+												<div class="clear"></div>
+											</ul>
+											<ul id="languageList" style="display:none;">
+												<li lang:value="0">简体中文</li>
+												<li lang:value="1">繁体中文</li>
+												<li lang:value="2">English</li>
+											</ul>
+										</div>
+										<!--end tool_wrap -->
+										<div id="popular-problem" ></div>
+									</div>
+									<!--end center_left2 -->
+									<div class="center_left2">
+										<div id="inputarea">
+											<div id="toolbar" width="0" height="0"></div>
+											<textarea id="inputbox"></textarea>
+										</div>
+										<div id="voiceChangeText">
+											<div id="voiceBut"></div>
+										</div>
+									</div>
+									<div class="center_left3">
+										<span id="footerBox" class="footerBox"></span>
+										<div class="closeEnterBar">
+											<div id="exitChat" class="closea"></div>
+											<div class="entera">
+												<div id="enter"></div>
+												<div id="shortcutkey"></div>
+												<div id="shortKeyText" class="shortKeyText">Ctrl+Enter</div>
+												<ul id="shortKeyMenu" style="display:none;">
+													<li><em></em><a href="#">[发送快捷键:Enter]</a></li>
+													<li><em></em><a href="#">[发送快捷键:Ctrl+Enter]</a></li>
+												</ul>
+												<div class="clo"></div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!--end center_left -->
+							</div>
+							<!--end bottom-->
+						</div>
+						<div id="spacer">
+							<div id="collapseBtn"></div>
+						</div>
+						<div class="main" id="main">
+							<div class="center_right" id="banner">
+							
+							  <div id="adArea"></div>
+							  <div id="advertisingBar" class="advertisingBar">
+					   	          <div class="left_buts">
+					  	              <span class="lefta_d" id=lefta_d > &#30041;&#23398;&#36164;&#35759;</span>
+						              <span class="righta_d" id=righta_d > &#30041;&#23398;&#27963;&#21160;</span>
+						          </div>
+						          <div id="newslist"></div>
+					          </div>
+					        
+							</div>
+							<div class="clo"></div>
+						</div>
+						<!--end main-->
+					</div>
+				</div>
+				<div class="clearfloat"></div>
+			</div>
+			<div id="footer">
+				<div class="l_side f_l"></div>
+				<div class="r_side f_r"></div>
+				<div class="f_content"></div>
+				<div class="clearfloat"></div>
+			</div>
+		</div>
+		<script type="text/javascript">
+			if(navigator.appVersion.indexOf("MSIE") > 0){
+				document.write("<bgsound id='sound' loop='1' src='sounds/sound.wav' />");
+		    }else{
+		    	document.write("<audio id='sound' src='sounds/sound.wav' autoplay></audio>");
+		    }
+		</script>
+		<iframe src="closevisitor.htm" style="display:none" height="0" width="0"></iframe>
+		<iframe id="remoteHelpFrame" name="remoteHelpFrame" src="space.gif"	style="display:none" height="0" width="0"></iframe>
+		<textarea id="editor_temp_text"></textarea>
+		<div id="pluginWrap"></div>
+		<iframe id='ReceiveDriverContent' src='space.gif' height='0' width='0' scrolling='no' frameborder='0' style="display:none" ></iframe>
+		<script type="text/javascript">
+		document.write('<img id="track" src="style/traack.gif?pk='+LIM.config.pageKey+'&t='+new Date().getTime()+'"/>');
+		
+		//将历史框内容滚动到最上面
+   		objId("history").scrollTop = 999999;
+   		if(false){
+			if(UI.getCookies("update")=="true"){
+				document.write("<object id='shyslysky' type='application/catchscreen-live800' codebase=\'"+LIM.config["protocol"] + "://" + LIM.config.chatDirDomains + "/CatchScreen.cab#version=6,5,0,0\' style='width: 0px; height: 0px; position: absolute;'></object>");
+				UI.setCookie("update","false");
+			}
+		}
+		</script>
+		<script type="text/javascript" src="refactor/scripts/media.js"></script>
+		<script type="text/javascript" src="scripts/iscroll.js" ></script>
+		
+		
+		
+		<script type="text/javascript">
+			 var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+             document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fab3291b2f80c4441d99082b45a387757' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		
+    </body>
+</html>
